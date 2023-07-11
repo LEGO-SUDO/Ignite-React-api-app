@@ -2,6 +2,7 @@
 
 const base_url =
   "http://api.rawg.io/api/games?key=57a33d9e80064cd9b62ebfca780fd7bd";
+  
 
 //Get Current Month
 const getCurrentMonth = () => {
